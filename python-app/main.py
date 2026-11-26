@@ -1,6 +1,6 @@
 import calendar
 
-print("Welcome to the calendar!\n")
+print("Welcome to the super calendar!\n")
 
 while True:
     try:
